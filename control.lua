@@ -12,8 +12,6 @@ local function gwarptorio(k) return remote.call("warptorio","getglobal",k) end
 Some helper functions to make code easier
 ]]
 
-local util = require("util")
-local mod_gui = require("mod-gui")
 local function istable(x) return type(x)=="table" end
 local function printx(m) for k,v in pairs(game.players)do v.print(m) end end
 local function isvalid(v) return (v and v.valid) end
