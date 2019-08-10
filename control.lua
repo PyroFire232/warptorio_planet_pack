@@ -31,6 +31,7 @@ Uses:
 PlanetControl(1,1,1)*0.5 = PlanetControl(0.5,0.5,0.5)
 PlanetControl(1,1,1)+2 = PlanetControl(3,3,3)
 PlanetControl(1,2,3)*PlanetControl(1,2,3) = PlanetControl(1,4,9)
+PlanetControl(3,2,1)+PlanetControl(1,2,3) = PlanetControl(4,4,4)
 
 ]]
 
