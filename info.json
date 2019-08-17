@@ -1,6 +1,6 @@
 {
 	"name": "warptorio_planet_pack",
-	"version": "0.0.2",
+	"version": "0.0.5",
 	"title": "Warptorio2 Official Planets Pack (Examples)",
 	"author": "PyroFire",
 	"dependencies": ["warptorio2"],
